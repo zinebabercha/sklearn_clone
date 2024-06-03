@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='scikit-learn-clone',
+    name='sklearn_clone',
     version='0.1.0',
     description='A custom implementation of various machine learning algorithms and utilities inspired by Scikit-Learn',
     author='Ilyas Boudhaine & Zineb Abercha',
     author_email='ilyasboudhaine1@gmail.com, zineb03abercha@gmail.com',
-    url='https://github.com/iboud0/scikit_learn_clone',
+    url='https://github.com/zinebabercha/sklearn_clone',
     packages=find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',
